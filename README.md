@@ -1,4 +1,4 @@
-# Tuto_Card<br>
+# Tuto_Card en html, css et js<br>
 Tuto suivi sur la chaine Le Designer du Web<br>
 
 Avant passage de la souris
